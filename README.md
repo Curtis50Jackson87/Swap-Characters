@@ -2,7 +2,7 @@
 
 ### React.js Practice:
 
-Changing Dom by rendering different States with data from "xyz.json" file and imges hosted online.
+Changing Dom by rendering different States with data from "xyz.json" file and imges hosted online...
 
 ![Screen Shoot](/src/comps/img/sc01.png)
 
